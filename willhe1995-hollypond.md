@@ -4,6 +4,7 @@
 - Brandin Iron
 - Parkside Catfish
 - All Steak
+- Dairy Queen
 
 ##Places to Visit
 - Ave Maria Grotto
