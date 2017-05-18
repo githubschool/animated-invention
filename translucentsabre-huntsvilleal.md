@@ -1,4 +1,6 @@
 # Huntsville, AL
+- Huntsville is great for families
+- [ ] Check here to show interest
 
 ### Places to Eat
 - Viet Huong
