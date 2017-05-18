@@ -1,4 +1,4 @@
-#madagascar
+# Madagascar
 
 ### Places to eat
 
