@@ -1,5 +1,8 @@
 # Atlanta
-+
-+### Places of Interest
-+
-+### Restaurants
+
+### Some Places of Interest
+- Georgia Aquarium
+- CNN Center
+
+### A Few Restaurants
+- The Fish Market
