@@ -1,5 +1,4 @@
-
-# Chattanooga
+# Chattanooga, TN
 
 ### Places to Eat
 - Tony's Pasta Shop
