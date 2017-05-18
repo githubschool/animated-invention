@@ -1,5 +1,10 @@
 # Liverpool
 
-#### Places to eat
+#### Places to Eat
+- Joe's Very Greasy Spoon
+- Yates Wine Bar
 
-#### Places to visit
+#### Places to Visit
+- Pier Head
+- Tate Gallery
+- Liverpool Football Club stadium
