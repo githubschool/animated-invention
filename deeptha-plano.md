@@ -8,3 +8,4 @@
 #### Places to Visit
 - Legacy trial
 - Arbor hills trails
+- Mall 
