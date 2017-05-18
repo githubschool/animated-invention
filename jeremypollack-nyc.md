@@ -5,6 +5,7 @@
 - Dinosaur BBQ
 - JPan Sushi
 - Don's Bogam
+- Peter Lugar
 
 #### Places to visit
 
