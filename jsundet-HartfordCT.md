@@ -1,6 +1,8 @@
 # HartfordCT
 ### places to visit
 - Mark Twain House
+- Bushnell Park
+- Wadsworth Atheneum
 ### places to eat
-- Georgina's
-- Grease City
+- Vito's
+- Trumball Cafe
