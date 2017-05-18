@@ -1,5 +1,5 @@
 # Atlanta
-
-### Places of Interest
-
-### Restaurants
++
++### Places of Interest
++
++### Restaurants
