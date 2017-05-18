@@ -4,6 +4,7 @@
 
 - Melting Pot
 - Nothing but Noodles
+- Panera
 
 ### Places to visit
 
