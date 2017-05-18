@@ -5,6 +5,7 @@
 - Rosie's
 - ADTRAN Cafeteria
 - Papa Gyro's
+- YOUR MOM
 
 ### Places to Visit
 - Rocket Museum
