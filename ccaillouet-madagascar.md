@@ -1,5 +1,5 @@
 #madagascar
 
-###Places to eat
+### Places to eat
 
-###Places to sleep
+### Places to sleep
