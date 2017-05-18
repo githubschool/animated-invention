@@ -2,7 +2,7 @@
 
 ### Places to Eat
 - Bandito Burrito
-- Guadalhara
+- Guadalajara
 - Pieology
 
 ### Places to Visit
