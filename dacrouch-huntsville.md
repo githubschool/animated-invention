@@ -6,4 +6,4 @@
 
 ### Places to Visit
 - The Rocket - Because rockets
-- The Botanical Gardens - smells pretty
+- The Botanical Gardens - smells very pretty
