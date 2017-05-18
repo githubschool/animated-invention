@@ -1,4 +1,4 @@
-# Huntsville
+# Huntsville, Alabama
 
 ### Places to Eat
 - Connor's Steakhouse
