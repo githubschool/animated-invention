@@ -1,5 +1,9 @@
 # Plano
 
-### Restaurants
+#### Places to Eat
+- Canteen
+- Restaurants
 
-### Places to Eat
+#### Places to Visit
+- Ericsson
+- Parker Road
