@@ -7,4 +7,4 @@
 
 ### Place to visit
 - National Video Game Museum
-
+- Frisco Architecture Walk
