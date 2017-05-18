@@ -1,7 +1,7 @@
 # Huntsville
 
 ## Places to Eat
-- Teds BBQ
+- Teds BBQ (Spicy mustard!)
 - Conner's 
 
 ## Places to Visit
