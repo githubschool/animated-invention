@@ -8,3 +8,5 @@
 ###Places to Visit
 -Bryant-Denny
 -Alabama campus
+-Alpha
+-okay does this work
