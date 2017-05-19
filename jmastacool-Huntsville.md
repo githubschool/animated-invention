@@ -1,9 +1,8 @@
 # Hunstville
 
 ### Places to eat
-- Wings
-- Beauregard's
-- "old" Greenbrier
+- Beauregard's http://beauwings.com/
+- "old" Greenbrier http://www.oldgreenbrier.com/
 
 ### Places to visit
 - Space & Rocket Center
